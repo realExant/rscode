@@ -1,0 +1,2 @@
+# rscode
+Reed-Solomon Coder
